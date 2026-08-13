@@ -1,6 +1,4 @@
 # Environment and secrets
-.env
-.env.local
 .env.*.local
 *.pem
 *.key
@@ -105,3 +103,4 @@ examples/*/chart_anim.mp4
 playwright/output/*.mp4
 playwright/recordings/*.mp4
 .ai_dev/
+config.bat
